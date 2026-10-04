@@ -1,0 +1,7 @@
+build/
+build-asan/
+build-tsan/
+concuplayer
+concuplayer-asan
+concuplayer-tsan
+assets/*.wav
