@@ -1,4 +1,5 @@
-# ConcuPlayer 🎵
+# ConcuPlayer 
+Por: Jhon Jairo Pulgarin y Andrés Felipe Eusse
 
 Reproductor de audio para terminal escrito en C (POSIX/pthreads) para el
 **Proyecto 2 de Sistemas Operativos: Concurrencia y Sincronización**.
@@ -6,11 +7,15 @@ El motor de reproducción (productor–consumidor sobre un búfer circular)
 está desacoplado de una lista de reproducción compartida (lectores–escritores
 con `pthread_rwlock_t`), y todo se visualiza en vivo en una TUI ncurses.
 
+
 ```
   █▀▀ █▀█ █▄ █ █▀▀ █ █   █▀█ █   ▄▀█ █ █ █▀▀ █▀█
   █   █ █ █ ▀█ █   █ █   █▀▀ █   █▀█ ▀█▀ █▀▀ █▀▄
   ▀▀▀ ▀▀▀ ▀  ▀ ▀▀▀ ▀▀▀   ▀   ▀▀▀ ▀ ▀  ▀  ▀▀▀ ▀ ▀
 ```
+
+## Vídeo Sustentación:
+
 
 ## Características
 
