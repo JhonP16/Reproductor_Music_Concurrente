@@ -1,4 +1,4 @@
-# ConcuPlayer 🎵
+# ConcuPlayer 
 
 Reproductor de audio para terminal escrito en C (POSIX/pthreads) para el
 **Proyecto 2 de Sistemas Operativos: Concurrencia y Sincronización**.
@@ -11,6 +11,9 @@ con `pthread_rwlock_t`), y todo se visualiza en vivo en una TUI ncurses.
   █   █ █ █ ▀█ █   █ █   █▀▀ █   █▀█ ▀█▀ █▀▀ █▀▄
   ▀▀▀ ▀▀▀ ▀  ▀ ▀▀▀ ▀▀▀   ▀   ▀▀▀ ▀ ▀  ▀  ▀▀▀ ▀ ▀
 ```
+
+## Vídeo Sustentación:
+
 
 ## Características
 
