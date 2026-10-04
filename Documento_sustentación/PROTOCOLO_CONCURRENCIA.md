@@ -1,5 +1,7 @@
 # Protocolo de concurrencia — ConcuPlayer
 
+Nombres: Jhon Jairo Pulgarín y Andrés Felipe Eusse
+
 Este documento describe **qué hilos existen, qué datos comparten, con qué
 primitiva se protege cada dato y por qué el diseño no tiene carreras,
 interbloqueos ni espera activa**. Solo se usan primitivas POSIX:
